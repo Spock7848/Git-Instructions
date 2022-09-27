@@ -12,6 +12,7 @@
 4. **Bulleted lists**
 * Create a bulleted list by using an ***asterisk, hyphen,*** or ***plus sign***, followed by a space.
 <<<<<<< HEAD
+<<<<<<< HEAD
 5. Links
 
 =======
@@ -19,3 +20,14 @@
 * Create a link by **surrounding the link text in** ***square brackets,*** followed immediately by the **URL in** ***parentheses:*** [NFL](http://nfl.com/)
 >>>>>>> links
 6. Git Commands
+=======
+5. **Links**
+* Create a link by **surrounding the link text in** ***square brackets,*** followed immediately by the **URL in** ***parentheses:*** [NFL](http://nfl.com/)
+6. **Git Commands**
+* **git init** *will create a new local GIT repository;*
+* **git add** *is used to add files to the staging area;*
+* **git commit** *will create a snapshot of the changes and save it to the git directory;*
+* **git status** *displays the list of changed files together with the files that are yet to be staged or committed;*
+* **git checkout** *creates branches and helps you to navigate between them;*
+* **git log** *is used to see the repository’s history by listing certain commit’s details.*
+>>>>>>> git_commands
