@@ -11,6 +11,11 @@
 * Type **1.** then a **space**. Any number *(followed by a full stop and space)* **can be used** and the list items will be ordered from 1 when exported.
 4. **Bulleted lists**
 * Create a bulleted list by using an ***asterisk, hyphen,*** or ***plus sign***, followed by a space.
+<<<<<<< HEAD
 5. Links
 
+=======
+5. **Links**
+* Create a link by **surrounding the link text in** ***square brackets,*** followed immediately by the **URL in** ***parentheses:*** [NFL](http://nfl.com/)
+>>>>>>> links
 6. Git Commands
