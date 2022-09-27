@@ -1,6 +1,8 @@
 # Git Instruction
-1. Headings
-
+1. **Headings**
+* First level heading #
+* Second level heading ##
+* Third level heading ###
 2. Emphasis and Importance
 
 3. Numbered lists
