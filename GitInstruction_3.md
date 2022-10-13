@@ -23,7 +23,7 @@
 * **git clone** *is used to point to an existing repo and make a clone or copy of that repo at in a new directory, at another location.*
 * **git pull** *is used to fetch and download content from a remote repository and immediately update the local repository to match that content.*
 * **git push** *is used to upload local repository content to a remote repository.*
-* **git pull request algorithm:**
+* **git pull request** algorithm:
 1. Find a project you want to contribute to.
 2. Fork it.
 3. Clone it to your local system.
